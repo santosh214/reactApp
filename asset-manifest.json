@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactApp/static/css/main.bea1c7f8.chunk.css",
+    "main.js": "/reactApp/static/js/main.43259160.chunk.js",
+    "main.js.map": "/reactApp/static/js/main.43259160.chunk.js.map",
+    "runtime-main.js": "/reactApp/static/js/runtime-main.71c3efe6.js",
+    "runtime-main.js.map": "/reactApp/static/js/runtime-main.71c3efe6.js.map",
+    "static/css/2.150d169a.chunk.css": "/reactApp/static/css/2.150d169a.chunk.css",
+    "static/js/2.a51c9ccb.chunk.js": "/reactApp/static/js/2.a51c9ccb.chunk.js",
+    "static/js/2.a51c9ccb.chunk.js.map": "/reactApp/static/js/2.a51c9ccb.chunk.js.map",
+    "index.html": "/reactApp/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/reactApp/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.bea1c7f8.chunk.css.map": "/reactApp/static/css/main.bea1c7f8.chunk.css.map",
+    "static/js/2.a51c9ccb.chunk.js.LICENSE.txt": "/reactApp/static/js/2.a51c9ccb.chunk.js.LICENSE.txt",
+    "static/media/cube.ffa437d5.svg": "/reactApp/static/media/cube.ffa437d5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71c3efe6.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.a51c9ccb.chunk.js",
+    "static/css/main.bea1c7f8.chunk.css",
+    "static/js/main.43259160.chunk.js"
+  ]
+}
