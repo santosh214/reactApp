@@ -1,20 +1,19 @@
-// import logo from './logo.svg';
+import logo from './logo.png';
 import './App.css';
 import { Navbar, Nav, Image } from 'react-bootstrap';
-import cube from './cube.svg';
 import { LinkContainer } from 'react-router-bootstrap'
 
 function App() {
   return (
-    <div className="App">
+    <div className="App font-serif">
 
-      <Navbar collapseOnSelect className=" pr-5" expand="lg" bg="dark" variant="dark">
+      <Navbar collapseOnSelect className="text-md bg-gray-100 font-semibold tracking-wide" expand="lg" >
       <LinkContainer to="/home">
-               <Navbar.Brand  className="App-logo  pr-5"><Image src={cube}></Image></Navbar.Brand>
+               <Navbar.Brand  className="App-logo  pr-5"><Image src={logo}></Image></Navbar.Brand>
        </LinkContainer>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
-          <Nav className="mr-auto">
+          <Nav className="mr-auto ">
             <LinkContainer to="/home">
               <Nav.Link>Home</Nav.Link>
             </LinkContainer>
