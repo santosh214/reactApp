@@ -10,9 +10,7 @@ export class Home extends Component {
                         <blockquote className="blockquote mb-0">
                             <p>
 
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere
-                                erat a ante
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor aspernatur, cum fuga sed soluta distinctio quo quis, voluptatibus ipsum id suscipit laborum neque voluptatum ex repellat dicta iusto ea eius.
+Dummy Text
       </p>
                             <footer className="blockquote-footer">
                                 Section <cite title="Source Title">Home</cite>
